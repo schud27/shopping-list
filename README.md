@@ -4,3 +4,5 @@
 - Arugula
 - Tomato
 - Sourdough
+- Coffee
+- Milk
