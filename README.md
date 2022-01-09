@@ -1,0 +1,6 @@
+- Bacon
+- Eggs
+- Gouda
+- Arugula
+- Tomato
+- Sourdough
